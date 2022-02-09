@@ -1,0 +1,13 @@
+﻿{
+    "token": "mfa.cIU3x_69dhAe9GKlGjKMcIPLoGCefEBHv8rnAOE58QjIYUuLPz95t9AKbs1syY_vABvJ_MAqC5bdyhppmy7X", 
+    "prefix": "prefix",
+    "sunucuid": "Komutların kullanılacağı kanalın ID",
+    "huntkanal": "hunt'un atılacağı kanalın ID",
+    "battlekanal": "battle'ın atılacağı kanalın ID",
+    "praykanal": "Pray'ın atılacağı kanalın ID",
+    "owokanal": "owo mesajının atılacağı kanalın ID",
+    "sendid": "Paraların gönderileceği kişinin ID",
+    "prayid": "pray'ın gönderileceği kişinin ID",
+    "cookieid": "cookie'nin gönderileceği kişinin ID",
+    "owosure": "11"
+}
